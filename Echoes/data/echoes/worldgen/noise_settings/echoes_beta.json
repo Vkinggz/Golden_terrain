@@ -36,7 +36,7 @@
     "ridges": "minecraft:overworld/ridges",
 
     "initial_density_without_jaggedness": "minecraft:overworld/overworld",
-    "final_density": "minecraft:overworld/sloped_cheese",
+    "final_density": "echoes:echoes/base_density",
 
     "vein_toggle": "minecraft:overworld/vein_toggle",
     "vein_ridged": "minecraft:overworld/vein_ridged",
