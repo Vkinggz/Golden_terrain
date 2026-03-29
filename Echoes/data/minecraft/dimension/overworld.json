@@ -1,8 +1,8 @@
 {
-  "type": "minecraft:overworld",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "minecraft:echoes_beta",
+    "seed": 0,
+    "settings": "echoes:cascades_overworld",
     "biome_source": {
       "type": "minecraft:multi_noise",
       "preset": "minecraft:overworld"
