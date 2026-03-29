@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:random_selector",
-  "config": {
-    "features": [
-      {"feature": "minecraft:water_lake", "chance": 0.7},
-      {"feature": "minecraft:lava_lake", "chance": 0.3}
-    ]
-  }
-}

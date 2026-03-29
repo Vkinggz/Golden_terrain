@@ -1,7 +1,7 @@
 {
+  "type": "minecraft:overworld",
   "generator": {
     "type": "minecraft:noise",
-    "seed": 0,
     "settings": "echoes:echoes_beta",
     "biome_source": {
       "type": "minecraft:multi_noise",
