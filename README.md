@@ -1,7 +1,7 @@
-# Golden Terrain
+# Echoes Terrain
 
-Beta-style world generation inspired by Hybrid Beta.
+Beta-style world generation inspired by Hybrid Beta (Cascades).
 
-- Extreme terrain
+- Fantasy terrain
 - Classic beaches
 - Liminal atmosphere
