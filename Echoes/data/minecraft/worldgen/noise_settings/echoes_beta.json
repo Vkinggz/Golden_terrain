@@ -26,7 +26,8 @@
     "depth": 0,
     "ridges": "minecraft:weirdness",
 
-    "initial_density_without_jaggedness": 1.0,
+    "initial_density_without_jaggedness": "minecraft:overworld/base_3d_noise",
+
     "final_density": "minecraft:final_density",
 
     "vein_toggle": 0,
@@ -41,8 +42,8 @@
       {
         "type": "minecraft:condition",
         "if_true": {
-          "type": "minecraft:y_above",
-          "anchor": { "absolute": 60 }
+          "type": "minecraft:water",
+          "offset": 0
         },
         "then_run": {
           "type": "minecraft:block",
