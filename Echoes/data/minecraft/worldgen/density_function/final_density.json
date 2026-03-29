@@ -3,7 +3,7 @@
   "argument1": {
     "type": "minecraft:mul",
     "argument1": "minecraft:overworld/base_3d_noise",
-    "argument2": 2.8
+    "argument2": 3.0
   },
   "argument2": {
     "type": "minecraft:add",
@@ -17,7 +17,7 @@
           "type": "minecraft:abs",
           "argument": "minecraft:erosion"
         },
-        "argument2": -1.2
+        "argument2": -1.6
       }
     }
   }
